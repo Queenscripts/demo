@@ -1,0 +1,46 @@
+body {
+    margin: auto;
+  }
+  
+  nav {
+    background-color: #d3d3d3;
+    border-bottom: 1px solid black;
+  }
+  
+  .nav-link {
+    display: inline-block;
+    padding: 20px;
+    background-color: grey;
+    color: white;
+  }
+  
+  #main-content {
+    height: 500px;
+  }
+  
+  #aside {
+    float: left;
+  }
+  
+  #main {
+    float: left;
+    padding: 20px;
+  }
+  .aside-item {
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    height: 50vh;
+    padding: 30px;
+  }
+  
+  #left {
+    float: left;
+  }
+  
+  #right {
+    float: right;
+  }
+  
+  #first {
+  }
+  
